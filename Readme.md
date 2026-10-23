@@ -1,12 +1,11 @@
 \# 🎮 \[ASTRONAUT DELIVERY]
 
 
-
-!\[Texto](gameplay.gif)
-
+![Texto](gameplay.gif)
 
 
-**Eres un delivery de hamburguesas intergaláctico, tienes que satisfacer a todos los clientes que llegan en sus naves antes de que se vayan fuera de la pantalla.**
+
+*Eres un delivery de hamburguesas intergaláctico, tienes que satisfacer a todos los clientes que llegan en sus naves antes de que se vayan fuera de la pantalla.*
 
 
 
